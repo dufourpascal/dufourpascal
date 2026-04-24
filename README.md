@@ -8,15 +8,7 @@ I build AI-native software products, developer tools, and applied scientific wor
 | --- | --- | --- |
 | NeuroQP | Neuroscience image quantification app with a Next.js product surface, Convex backend, and RunPod image-processing jobs. | [neuroqp.com](https://neuroqp.com) |
 | Supatent | CMS and platform work for structured content, marketing pages, docs, and SaaS workflows. | [supatent.ai](https://supatent.ai) |
-| Supatent Docs Framework | Static-first Next.js docs framework powered by Supatent content, search indexing, and generated AI-readable JSON. | private repo |
-| Caracara Score | Web app for structured scoring workflows, currently using Clerk, Convex, and Next.js. | [repo](https://github.com/dufourpascal/caracara) · [app](https://caracara.vercel.app) |
-| sceneval | CLI for evaluating real product workflows with AI agents and producing pass/fail, quality scores, and fix-oriented reports. | [repo](https://github.com/dufourpascal/sceneval) |
+| Supatent Docs Framework | Static-first Next.js docs framework powered by Supatent content, search indexing, and generated AI-readable JSON. | [repo](https://github.com/supatent/supatent-docs) |
+| Caracara Score | Web app for structured scoring workflows, currently using Clerk, Convex, and Next.js. | [repo](https://github.com/dufourpascal/caracara) · [app](https://caracara.renaissanceai.com) |
 | bird-name-list | Curated bird nouns for human-readable run names like `brisk-goose` or `quiet-warbler`. | [repo](https://github.com/dufourpascal/bird-name-list) |
-| Renaissance AI | Multilingual Next.js site migrated to Supatent CMS-backed content. | [site](https://renaissanceai-swart.vercel.app) |
-
-## Public repos to start with
-
-- [sceneval](https://github.com/dufourpascal/sceneval) - scenario-based workflow evaluation for coding agents.
-- [bird-name-list](https://github.com/dufourpascal/bird-name-list) - generated and cleaned bird-name data for readable run names.
-- [caracara](https://github.com/dufourpascal/caracara) - current full-stack app work in public.
-- [vibe-cms-sdk](https://github.com/supatent/vibe-cms-sdk) - framework-agnostic TypeScript SDK work under Supatent.
+| SEO and GEO skills | Skills for claude code and codex to improve SEO and GEO of websites. | [repo](https://github.com/dufourpascal/seo_geo_skills) |
